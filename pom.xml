@@ -52,7 +52,7 @@
     </distributionManagement>
 	
 	<properties>
-  <sonar.host.url>http://44.202.166.248:9000/</sonar.host.url>
+  <sonar.host.url>http://44.202.166.248:9000/projects/</sonar.host.url>
   <sonar.login>vkproject</sonar.login>
 </properties>
 		
