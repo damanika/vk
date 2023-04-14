@@ -50,5 +50,10 @@
         <url>http://3.88.154.93:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     </distributionManagement>
+	
+	<properties>
+  <sonar.host.url>http://44.202.166.248:9000/</sonar.host.url>
+  <sonar.login>vkproject</sonar.login>
+</properties>
 		
 </project>
