@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vkapp</groupId>
 	<artifactId>vk</artifactId>
-	<version>3-SNAPSHOT</version>
+	<version>4-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Web Application</name>
 	<description>Java Webapp</description>
@@ -47,7 +47,7 @@
 	<distributionManagement>
     <snapshotRepository>
         <id>deployment</id>
-        <url>http://3.88.154.93:8081/repository/maven-snapshots/</url>
+        <url>http://34.228.155.41:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     </distributionManagement>		
 </project>
